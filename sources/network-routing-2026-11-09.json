@@ -1,0 +1,57 @@
+{
+  "course_id": "_104128_1",
+  "content_id": "_1727334_1",
+  "resource_id": "13553795_1",
+  "title": "第四讲_网络层（3）路由计算",
+  "slides": 87,
+  "bytes": 4078564,
+  "source_sha256": "5c03c0cceeb63de4c948b77f5f3343c2360e5d9bf78c869fe74617b690b76328",
+  "verified_at": "2026-11-09T10:59:45.923982+00:00",
+  "source_url": "https://course.pku.edu.cn/webapps/blackboard/content/listContent.jsp?course_id=_104128_1&content_id=_1727334_1",
+  "target_repository": "insomniapku/computer-network-notes",
+  "target_branch": "main",
+  "baseline_commit": "a77875e5e06417663c13ad653961320b1f4fb1dd",
+  "chapter": "09-网络层-路由技术.md",
+  "images": [
+    {
+      "path": "assets/network-routing/slide-8.png",
+      "source_slide": 8,
+      "sha256": "7ef28a127a7f63b0883faf9c07eaf0ef47477aa2617cba122e90d252c8de3218"
+    },
+    {
+      "path": "assets/network-routing/slide-29.png",
+      "source_slide": 29,
+      "sha256": "f68e61d7033690d1a58281aab1a302a9ed09aabe86308a3ef0814bb7af58dc6c"
+    },
+    {
+      "path": "assets/network-routing/slide-33.png",
+      "source_slide": 33,
+      "sha256": "1238f70f928d81dc4fc97c7568af5a78ce64505bc7adbeacc9b11bb2b08cad9f"
+    },
+    {
+      "path": "assets/network-routing/slide-45.png",
+      "source_slide": 45,
+      "sha256": "4afe419b69880fbbe386c87af2ad332b28b44326ee0483bb6a2ca0221741800a"
+    },
+    {
+      "path": "assets/network-routing/slide-61.png",
+      "source_slide": 61,
+      "sha256": "92520952be3f4d814a2921cd1950dc959a31c0ef9433257eb40439182ee8b182"
+    },
+    {
+      "path": "assets/network-routing/slide-81.png",
+      "source_slide": 81,
+      "sha256": "cc6fcdd09a5a6864fe0c65a80a0467abc70bc65973354c3b8095d6f9ad1f2927"
+    },
+    {
+      "path": "assets/network-routing/bgp-config.png",
+      "source_slide": 57,
+      "sha256": "bfb7a44b57ea2db329ee0b5eba15eb9ed064b52d3f872318305511b3a28f6996"
+    }
+  ],
+  "coverage": "Read all 87 slide texts and notes; transcribed slide 15 algorithm; visually verified technical diagrams on slides 8,29,33,45,57,61,81. Merged repeated animation pages.",
+  "original_deck_uploaded": false,
+  "status": "publication_approved",
+  "publication_commit": null,
+  "publication_record": "The containing Git commit identifies this published batch; no original slide deck is included."
+}
