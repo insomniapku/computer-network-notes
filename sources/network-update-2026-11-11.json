@@ -1,0 +1,66 @@
+{
+  "verified_at": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "repository": "insomniapku/computer-network-notes",
+  "branch": "main",
+  "baseline_commit": "9dade8bb1ea21cc52744c7dc181fcc01b4f346fe",
+  "course_id": "_104128_1",
+  "sources": [
+    {
+      "content_id": "_1727334_1",
+      "resource_id": "13579527_1",
+      "previous_resource_id": "13553795_1",
+      "url": "https://course.pku.edu.cn/bbcswebdav/pid-1727334-dt-content-rid-13579527_1/xid-13579527_1",
+      "bytes": 4098668,
+      "sha256": "6337558fc4a44d51a084997d70430e9f2ce64bd2d28f5e52db5312c2efa9a6ff",
+      "slides": 87,
+      "chapter": "09-网络层-路由技术.md",
+      "changes": [
+        "Slide 9 shortest-path tree wording revised; distinguish sink and source trees.",
+        "Slide 75 shortest paths changed from requirement to aspiration; fixed per-group tree summary removed.",
+        "Slide 76 membership explanation shortened; prior mechanism retained as explanatory text.",
+        "Slide 84 embedded PNG variants changed; decorative anycast illustration was already omitted from notes, no technical figure replaced."
+      ],
+      "coverage": "Compared complete slide and notes XML text against previous 87-slide deck; retained existing verified figures."
+    },
+    {
+      "content_id": "_1727804_1",
+      "resource_id": "13579528_1",
+      "url": "https://course.pku.edu.cn/bbcswebdav/pid-1727804-dt-content-rid-13579528_1/xid-13579528_1",
+      "bytes": 2892759,
+      "sha256": "9a28b2698ed3414bf2d0404f4c263e9103e19a0805d0b0dd1a71bf722de13526",
+      "slides": 40,
+      "chapter": "10-网络层-软件定义网络SDN.md",
+      "coverage": "Read all slide and note text; visually inspected slides 12,23,26,28,30,34,35,39; retained 12,23,26,28,30 as essential figures. Consolidated repeated slides. Auxiliary TE equations explicitly labeled as derivation.",
+      "images": [
+        {
+          "path": "assets/network-sdn/slide-12.png",
+          "slide": 12
+        },
+        {
+          "path": "assets/network-sdn/slide-23.png",
+          "slide": 23
+        },
+        {
+          "path": "assets/network-sdn/slide-26.png",
+          "slide": 26
+        },
+        {
+          "path": "assets/network-sdn/slide-28.png",
+          "slide": 28
+        },
+        {
+          "path": "assets/network-sdn/slide-30.png",
+          "slide": 30
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "P4-16 online specification fetch unavailable; no unverified hardware guarantee added.",
+    "Historical claims are not treated as live market statistics.",
+    "No course experiment was run."
+  ],
+  "original_decks_uploaded": false,
+  "publication_record": "The containing commit identifies this batch; verify branch head and file blobs after publication."
+}
