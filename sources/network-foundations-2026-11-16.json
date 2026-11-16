@@ -1,0 +1,305 @@
+{
+  "prepared_at": "2026-11-16T12:38:02.697938+00:00",
+  "repository": "insomniapku/computer-network-notes",
+  "branch": "main",
+  "baseline_commit": "aaf17b0f4672b5fcc5e3dff3601d679ce68e8c7a",
+  "course_id": "_104128_1",
+  "source_decks": 2,
+  "source_pages": 95,
+  "figures": 18,
+  "sources": [
+    {
+      "course_id": "_104128_1",
+      "content_id": "1724542",
+      "title": "第四讲_网络层（1）基本概念与路由器",
+      "source_url": "https://course.pku.edu.cn/webapps/blackboard/content/listContent.jsp?course_id=_104128_1&content_id=_1724542_1",
+      "attachment_url": "https://course.pku.edu.cn/bbcswebdav/pid-1724542-dt-content-rid-13476256_1/xid-13476256_1",
+      "source_filename": "network-basics-and-routers.pptx",
+      "source_sha256": "ffa33d219c39c10e9fd5a974a3d9aad8e4bdd008559f1aed0560e704619433cc",
+      "source_bytes": 1395550,
+      "source_pages": 40,
+      "source_observed_at": "2026-11-09T13:28:36+00:00",
+      "notes_bytes": 14770,
+      "notes_sha256": "704bfe43198c3a9fda872c64bbfd1822ac681550fee61da7e664198489a0ec70",
+      "content_coverage": [
+        {
+          "slides": [
+            3,
+            8
+          ],
+          "section": 1
+        },
+        {
+          "slides": [
+            9,
+            13
+          ],
+          "section": 2
+        },
+        {
+          "slides": [
+            15,
+            21
+          ],
+          "section": 3
+        },
+        {
+          "slides": [
+            22,
+            27
+          ],
+          "section": 4
+        },
+        {
+          "slides": [
+            28,
+            32
+          ],
+          "section": 5
+        },
+        {
+          "slides": [
+            33,
+            35
+          ],
+          "section": 6
+        },
+        {
+          "slides": [
+            36,
+            39
+          ],
+          "section": 7
+        },
+        {
+          "slides": [
+            40,
+            40
+          ],
+          "section": 8
+        }
+      ],
+      "cover_agenda_or_transition_slides_merged": [
+        1,
+        2,
+        14
+      ],
+      "figures": [
+        {
+          "path": "assets/routers/slide-16.png",
+          "sha256": "3961a485b5edf0a351cad6a2594f5286ae0774ed8e0d888ff4ad5b890c2aed36",
+          "bytes": 120357,
+          "source_slide": 16
+        },
+        {
+          "path": "assets/routers/slide-25.png",
+          "sha256": "40a1303077382a2b0864208551e9e64ae5fc544c1102ae91887f3dd6aeb8fcb0",
+          "bytes": 182941,
+          "source_slide": 25
+        },
+        {
+          "path": "assets/routers/slide-27.png",
+          "sha256": "757d812a06600d0bf96495ea0a2791745de97f5f1a6a0e065cb5e1eabc66482c",
+          "bytes": 188076,
+          "source_slide": 27
+        },
+        {
+          "path": "assets/routers/slide-31.png",
+          "sha256": "a0d25ddd876ebe83393bd4fca206ad8ea4591cc25eb20aa71fcbc82e1f9ad282",
+          "bytes": 186321,
+          "source_slide": 31
+        },
+        {
+          "path": "assets/routers/slide-35.png",
+          "sha256": "ee3cf3fb9523d895cd8acbae05b9ce12ede6068301815ce3446e34274cfb24d2",
+          "bytes": 155445,
+          "source_slide": 35
+        },
+        {
+          "path": "assets/routers/slide-37.png",
+          "sha256": "8ba2cf174fc28f904c4dca0a01aee4410d295b479343dfbcb4241edc125a0026",
+          "bytes": 212746,
+          "source_slide": 37
+        },
+        {
+          "path": "assets/routers/slide-38.png",
+          "sha256": "a454ee3374c354fe4e582cd6f4448d4b145b82b4616dca8c41f7b5adb8df44a7",
+          "bytes": 117699,
+          "source_slide": 38
+        },
+        {
+          "path": "assets/routers/slide-39.png",
+          "sha256": "b8f2bb0fcc757655925c78b05b1198ec8acab24e7f5df3bd65a54317eb043614",
+          "bytes": 154200,
+          "source_slide": 39
+        }
+      ],
+      "review": "2026-11-16: re-extracted all slides and speaker-note text; checked complete deck/draft/image hashes against 2026-11-09 records; visually checked all 18 selected technical figures; added page coverage and primary standards references.",
+      "previous_draft_path": "12-网络层-基本概念与路由器.md",
+      "notes_path": "11-网络层-基本概念与路由器.md"
+    },
+    {
+      "course_id": "_104128_1",
+      "content_id": "1725620",
+      "title": "第四讲_网络层（2）网络层协议",
+      "source_url": "https://course.pku.edu.cn/webapps/blackboard/content/listContent.jsp?course_id=_104128_1&content_id=_1725620_1",
+      "attachment_url": "https://course.pku.edu.cn/bbcswebdav/pid-1725620-dt-content-rid-13476260_1/xid-13476260_1",
+      "source_filename": "network-layer-protocols.pptx",
+      "source_sha256": "fbacc8d72bc85299f6bc9bb3680b4134cc9ee0eeff3d5cd4c5c40c151a514885",
+      "source_bytes": 1521873,
+      "source_pages": 55,
+      "source_observed_at": "2026-11-09T13:28:36+00:00",
+      "notes_bytes": 19327,
+      "notes_sha256": "cf8872841ea8b9eec7a22338a148930d0288616e7f512ae4947cb36d7681d6c9",
+      "content_coverage": [
+        {
+          "slides": [
+            3,
+            5
+          ],
+          "section": 1
+        },
+        {
+          "slides": [
+            6,
+            9
+          ],
+          "section": 2
+        },
+        {
+          "slides": [
+            11,
+            18
+          ],
+          "section": 3
+        },
+        {
+          "slides": [
+            19,
+            24
+          ],
+          "section": 4
+        },
+        {
+          "slides": [
+            26,
+            32
+          ],
+          "section": 5
+        },
+        {
+          "slides": [
+            34,
+            40
+          ],
+          "section": 6
+        },
+        {
+          "slides": [
+            42,
+            46
+          ],
+          "section": 7
+        },
+        {
+          "slides": [
+            48,
+            54
+          ],
+          "section": 8
+        },
+        {
+          "slides": [
+            55,
+            55
+          ],
+          "section": 9
+        }
+      ],
+      "cover_agenda_or_transition_slides_merged": [
+        1,
+        2,
+        10,
+        25,
+        33,
+        41,
+        47
+      ],
+      "figures": [
+        {
+          "path": "assets/ipv4/slide-4.png",
+          "sha256": "46ac21b711af36603cdeda30e4fa9fad9c01d8b36b3c3e55556427782dbf1197",
+          "bytes": 285088,
+          "source_slide": 4
+        },
+        {
+          "path": "assets/ipv4/slide-7.png",
+          "sha256": "d9ea0e7c59186f782c87dcf6bb90a668ccaef0a1d4be1e44113970f8d527073b",
+          "bytes": 163087,
+          "source_slide": 7
+        },
+        {
+          "path": "assets/ipv4/slide-16.png",
+          "sha256": "415c2f0eaf5262757b8617861216ad2abd7367d5308d52f116fb4df3e9c0d23a",
+          "bytes": 136773,
+          "source_slide": 16
+        },
+        {
+          "path": "assets/ipv4/slide-21.png",
+          "sha256": "064769fb3f5ab562070962aa3980073b34154adc8c4200ca404ee2ee9fc1f4b3",
+          "bytes": 217104,
+          "source_slide": 21
+        },
+        {
+          "path": "assets/ipv4/slide-24.png",
+          "sha256": "18dfef16e00302933b06fb018e556f71089970df6ccf6dd5587d0cf0bd220d7f",
+          "bytes": 193555,
+          "source_slide": 24
+        },
+        {
+          "path": "assets/ipv4/slide-27.png",
+          "sha256": "c56bd8ab03e402e886d84ac19c79d3a0f6ea3beed0973ed70fc3e486425c886a",
+          "bytes": 183203,
+          "source_slide": 27
+        },
+        {
+          "path": "assets/ipv4/slide-31.png",
+          "sha256": "949d6447eb1362bc6e027f30203ab5f888e5696fbf8566e0b048331fb94bd3a3",
+          "bytes": 284110,
+          "source_slide": 31
+        },
+        {
+          "path": "assets/ipv4/slide-38.png",
+          "sha256": "bf6cc4b7a99098c84654e5c2aa3cd9b64699be9eccabc789a2a6f00a0a2abd5b",
+          "bytes": 161150,
+          "source_slide": 38
+        },
+        {
+          "path": "assets/ipv4/slide-45.png",
+          "sha256": "855143353097dfa64d9e290076ef503a595ef6f9a1c33a154fd971e09e55fe25",
+          "bytes": 273818,
+          "source_slide": 45
+        },
+        {
+          "path": "assets/ipv4/slide-49.png",
+          "sha256": "a6e4af97c6620f2fb95987259962b796029105673d60fdb6d2405a986256351a",
+          "bytes": 151674,
+          "source_slide": 49
+        }
+      ],
+      "review": "2026-11-16: re-extracted all slides and speaker-note text; checked complete deck/draft/image hashes against 2026-11-09 records; visually checked all 18 selected technical figures; added page coverage and primary standards references.",
+      "previous_draft_path": "13-网络层-IPv4与配套协议.md",
+      "notes_path": "12-网络层-IPv4与配套协议.md"
+    }
+  ],
+  "version_evidence": {
+    "complete_local_copies_observed_at": "2026-11-09T13:28:36+00:00",
+    "last_successful_course_index_checked_at": "2026-11-15T11:24:25+00:00",
+    "index_resource_ids_and_links_match": true,
+    "online_binary_revalidation_2026_11_16": false,
+    "limitation": "School login rejected; current server bytes could not be fetched. Notes use the preserved copies and do not claim a fresh download."
+  },
+  "original_courseware_uploaded": false,
+  "unrelated_courses_or_assignments_included": false,
+  "publication": "The containing commit identifies this batch. Verify the main ref and all expected Git blobs after push."
+}
