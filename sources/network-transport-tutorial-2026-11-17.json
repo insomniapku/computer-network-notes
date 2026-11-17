@@ -1,0 +1,426 @@
+{
+  "prepared_and_verified_at": "2026-11-17T14:44:24.207892+00:00",
+  "repository": "insomniapku/computer-network-notes",
+  "branch": "main",
+  "baseline_commit": "f6a3eeb4b015fd9062a34b808245893b2d40cf06",
+  "source_decks": 4,
+  "source_pages": 162,
+  "new_notes": 4,
+  "technical_figures": 30,
+  "course_id": "_104128_1",
+  "main_lectures": [
+    {
+      "course_id": "_104128_1",
+      "content_id": "1723924",
+      "title": "第三讲_传输层（4）新型拥塞控制",
+      "source_url": "https://course.pku.edu.cn/webapps/blackboard/content/listContent.jsp?course_id=_104128_1&content_id=_1723924_1",
+      "attachment_url": "https://course.pku.edu.cn/bbcswebdav/pid-1723924-dt-content-rid-13397697_1/xid-13397697_1",
+      "source_filename": "network-new-congestion-control.pptx",
+      "source_sha256": "a23c45749b95f24ad39f092c7209dd89bdaead5a124e8e6ca5e91e85b06ab4a1",
+      "source_bytes": 3011550,
+      "source_pages": 55,
+      "source_observed_at": "2026-11-09T13:28:36+00:00",
+      "content_coverage": [
+        {
+          "slides": [
+            2,
+            8
+          ],
+          "section": 1
+        },
+        {
+          "slides": [
+            10,
+            10
+          ],
+          "section": 2
+        },
+        {
+          "slides": [
+            12,
+            13
+          ],
+          "section": 3
+        },
+        {
+          "slides": [
+            14,
+            15
+          ],
+          "section": 4
+        },
+        {
+          "slides": [
+            17,
+            23
+          ],
+          "section": 5
+        },
+        {
+          "slides": [
+            25,
+            28
+          ],
+          "section": 6
+        },
+        {
+          "slides": [
+            30,
+            31
+          ],
+          "section": 7
+        },
+        {
+          "slides": [
+            33,
+            44
+          ],
+          "section": 8
+        },
+        {
+          "slides": [
+            46,
+            54
+          ],
+          "section": 9
+        },
+        {
+          "slides": [
+            55,
+            55
+          ],
+          "section": 10
+        }
+      ],
+      "cover_agenda_or_transition_slides_merged": [
+        1,
+        9,
+        11,
+        16,
+        24,
+        29,
+        32,
+        45
+      ],
+      "figures": [
+        {
+          "path": "assets/congestion/slide-6.png",
+          "sha256": "8fc967d45baeec8b45b2c0c342e67de5ee906b2157e662e912e34f588adb8668",
+          "bytes": 78147,
+          "source_slide": 6
+        },
+        {
+          "path": "assets/congestion/slide-13.png",
+          "sha256": "b8de94af62e5cfe9e4d226c61ae8153c2b6fe77c3ed25aebbc039c47b8c9123b",
+          "bytes": 528724,
+          "source_slide": 13
+        },
+        {
+          "path": "assets/congestion/slide-22.png",
+          "sha256": "fe602afd3f7ba619847125dda2a1f77f389b40a0951bc734b505b1568adba863",
+          "bytes": 213588,
+          "source_slide": 22
+        },
+        {
+          "path": "assets/congestion/slide-28.png",
+          "sha256": "154c6ade5a06fcf4ccd428dacdd263f6b1760f7db353b750a6abb3d696414d11",
+          "bytes": 127918,
+          "source_slide": 28
+        },
+        {
+          "path": "assets/congestion/slide-33.png",
+          "sha256": "cfdb76d81b9fdf9a915a41602a12e75f6ae506e0ec571c9d1bc70ae8a8513713",
+          "bytes": 203757,
+          "source_slide": 33
+        },
+        {
+          "path": "assets/congestion/slide-37.png",
+          "sha256": "b854eb2844283a4beedb5b3e5f178905ef3b69252a0087f5f99fe36a35e0e501",
+          "bytes": 212273,
+          "source_slide": 37
+        },
+        {
+          "path": "assets/congestion/slide-42.png",
+          "sha256": "86d22fa9dd5d873bf66f0aa620e4fef30c272a127573777800964a42e95d417e",
+          "bytes": 123650,
+          "source_slide": 42
+        },
+        {
+          "path": "assets/congestion/slide-44.png",
+          "sha256": "9f1bd8db95d47112f41dc6400da9f1e5434aa4a574136bde401b5f9f91b5565c",
+          "bytes": 277917,
+          "source_slide": 44
+        },
+        {
+          "path": "assets/congestion/slide-52.png",
+          "sha256": "f603fb03a0c9df1a6515ae60259b4e26b29df496fa116eb64f6277674f5e7741",
+          "bytes": 291406,
+          "source_slide": 52
+        },
+        {
+          "path": "assets/congestion/slide-53.png",
+          "sha256": "6d389ff9b4f5e30bb6c7760cb1a50d01fa7bdb9ee46107b0d4966bf1062b26f7",
+          "bytes": 224386,
+          "source_slide": 53
+        }
+      ],
+      "note_path": "13-传输层-新型拥塞控制.md",
+      "prepared_note_sha256": "993eca755f537f451a9dc538646740672acc1947eda81ccbf9486f34389c732e",
+      "published_note_sha256": "a3bc6736ad49658d6047187868e6aacb041343402b0c5af86884db37b3c434dc",
+      "published_note_bytes": 16231,
+      "technical_content_change": "None; only version provenance appended and current-version wording clarified"
+    },
+    {
+      "course_id": "_104128_1",
+      "content_id": "1724541",
+      "title": "第三讲_传输层（5）新型传输层协议",
+      "source_url": "https://course.pku.edu.cn/webapps/blackboard/content/listContent.jsp?course_id=_104128_1&content_id=_1724541_1",
+      "attachment_url": "https://course.pku.edu.cn/bbcswebdav/pid-1724541-dt-content-rid-13423619_1/xid-13423619_1",
+      "source_filename": "network-new-transport-protocols.pptx",
+      "source_sha256": "f41a0f09b752548228f7af383781e37f6d2888212f8152ae4ae729454e3d385c",
+      "source_bytes": 3108484,
+      "source_pages": 37,
+      "source_observed_at": "2026-11-09T13:28:36+00:00",
+      "content_coverage": [
+        {
+          "slides": [
+            3,
+            11
+          ],
+          "section": 2
+        },
+        {
+          "slides": [
+            13,
+            22
+          ],
+          "section": 3
+        },
+        {
+          "slides": [
+            24,
+            36
+          ],
+          "section": 4
+        },
+        {
+          "slides": [
+            37,
+            37
+          ],
+          "section": 5
+        }
+      ],
+      "cover_agenda_or_transition_slides_merged": [
+        1,
+        2,
+        12,
+        23
+      ],
+      "figures": [
+        {
+          "path": "assets/transport/slide-7.png",
+          "sha256": "13cd8f0392438c8555a85a19855ca77d473c212a8ea9f54f0f6729563244cfcd",
+          "bytes": 174347,
+          "source_slide": 7
+        },
+        {
+          "path": "assets/transport/slide-8.png",
+          "sha256": "f96be775f7ace7487563683686022d93a1811b4c12e478353a23be41202b3fbc",
+          "bytes": 182894,
+          "source_slide": 8
+        },
+        {
+          "path": "assets/transport/slide-17.png",
+          "sha256": "51d548c35e0ccc4a5cf1edc101c4350812f891b0bea4d0c800c13e0aabcb343b",
+          "bytes": 226997,
+          "source_slide": 17
+        },
+        {
+          "path": "assets/transport/slide-18.png",
+          "sha256": "0a611ad5ff567eeb9c1a161bac0bdaba7c9f9cdb99b368bd25af45a361bef21f",
+          "bytes": 316510,
+          "source_slide": 18
+        },
+        {
+          "path": "assets/transport/slide-20.png",
+          "sha256": "ca5d0dbadb4c62295de5e49219d0157f4eb05fc0ebb1ec004c6043b8f1ba78ee",
+          "bytes": 260564,
+          "source_slide": 20
+        },
+        {
+          "path": "assets/transport/slide-27.png",
+          "sha256": "b1c52bee5a55f6871e6898824778ecf7bcdb132ca5ce5d01f414a09ab6e10936",
+          "bytes": 268112,
+          "source_slide": 27
+        },
+        {
+          "path": "assets/transport/slide-31.png",
+          "sha256": "0f7dcae3559eebbb62015c28f330493ada810e1e5749d243be0626a5c9fb055d",
+          "bytes": 319818,
+          "source_slide": 31
+        },
+        {
+          "path": "assets/transport/slide-30.png",
+          "sha256": "bd4e6f664a6588db56096a35494778112ab476936ec4addb753b7f8dbb4861e4",
+          "bytes": 329567,
+          "source_slide": 30
+        }
+      ],
+      "note_path": "14-传输层-新型传输层协议.md",
+      "prepared_note_sha256": "815fe44bfa0c7083a80cf46cc29e0ddfa102e144e11ec98f97b81d5fe62ffdb9",
+      "published_note_sha256": "3d74f9743dd7ad289af9b12031294abc8d78a0fb390dbe5cb946c18a78e8a27b",
+      "published_note_bytes": 15752,
+      "technical_content_change": "None; only version provenance appended and current-version wording clarified"
+    }
+  ],
+  "tutorials": {
+    "source_files": [
+      {
+        "download_name": "network-socket-tutorial.pptx",
+        "content_id": "_1716222_1",
+        "url": "https://course.pku.edu.cn/bbcswebdav/pid-1716222-dt-content-rid-13079362_1/xid-13079362_1",
+        "sha256": "89647c46708f592bf121567cd02f0de9f3d1e99919bbbe18ec23f4c82717cb8b",
+        "slides": 35,
+        "source_bytes": 280536
+      },
+      {
+        "download_name": "network-lab0-lab1-tutorial.pptx",
+        "actual_type": "ZIP example bundle, not direct PPTX",
+        "content_id": "_1716223_1",
+        "url": "https://course.pku.edu.cn/bbcswebdav/pid-1716223-dt-content-rid-13079363_1/xid-13079363_1",
+        "sha256": "9040734eebdc8e10cf246ff2dfe928496a969aaefd087758e3680f02802698aa",
+        "inner_deck": "Tutorial_1_CMAKE与Git.pptx",
+        "inner_sha256": "cb03af92a46b3c250fc7de33f41e55b4ea84446023f84eaa360b4d5ae2b7770e",
+        "slides": 35,
+        "source_bytes": 2579824
+      }
+    ],
+    "notes": [
+      {
+        "note_path": "习题课-01-Socket编程.md",
+        "prepared_note_sha256": "7db607c5ec460fc491671143717770f2803e1843566f36344040f741034ef4f3",
+        "published_note_sha256": "194476cc6b09b0cefc2457cf260954e023437805218a092bbb95172895a95611",
+        "published_note_bytes": 16220,
+        "technical_content_change": "None; only version provenance appended and current-version wording clarified"
+      },
+      {
+        "note_path": "习题课-02-CMake-Git与实验入门.md",
+        "prepared_note_sha256": "a84b9349026a2219e34a7f0caf7459b94a4af6201baf31cd2670fb4978e23098",
+        "published_note_sha256": "27b38f66c450b424608fcc51f61e0ce2d3fa271cfc212c4ec4e805066a4ea5be",
+        "published_note_bytes": 15821,
+        "technical_content_change": "None; only version provenance appended and current-version wording clarified"
+      }
+    ],
+    "coverage": {
+      "socket": {
+        "1": "title/source",
+        "2-5": "section 1 and 2",
+        "6-12": "section 2",
+        "13": "2.3",
+        "14-21": "section 3",
+        "22-27": "4.1-4.2",
+        "28-32": "4.2-4.3",
+        "33": "section 5",
+        "34-35": "section 6"
+      },
+      "cmake_git": {
+        "1": "title/source",
+        "2,7,17,19,31": "agenda merged into headings",
+        "3-6": "section 1-2",
+        "8-9": "section 2",
+        "10": "3.1",
+        "11": "3.2",
+        "12": "3.3",
+        "13": "3.4",
+        "14": "3.5",
+        "15": "reference after 3.6",
+        "16": "3.6",
+        "18": "section 4",
+        "20-24": "section 5",
+        "25-26": "section 6",
+        "27-29": "section 7",
+        "30": "section 8",
+        "32": "9.1",
+        "33": "9.2",
+        "34": "9.3",
+        "35": "section 10"
+      }
+    },
+    "figures": [
+      {
+        "path": "assets/tutorial/cmake-git-06.png",
+        "bytes": 126868,
+        "sha256": "9a4ed1130b4899cb6a7f13f41b32f9f2b39ef5ab336fba1d30f73e2c2993f94e"
+      },
+      {
+        "path": "assets/tutorial/cmake-git-13.png",
+        "bytes": 219108,
+        "sha256": "343d1d62d6eb4e291032af6fb6acb48ab6fbb37a800e8b875b7b610109d8d9b2"
+      },
+      {
+        "path": "assets/tutorial/cmake-git-25.png",
+        "bytes": 151099,
+        "sha256": "623ba96c614ce6eaeb6e3a6f2a3741e3a4cfc4678b510929a56c0ef13c8aad4d"
+      },
+      {
+        "path": "assets/tutorial/cmake-git-26.png",
+        "bytes": 89397,
+        "sha256": "60fedd1d19909a8f657335ebac2e68e75101ad2d8d702f7602d25b9e673c8c74"
+      },
+      {
+        "path": "assets/tutorial/cmake-git-29.png",
+        "bytes": 181334,
+        "sha256": "502e521fcf12391d079b51766ec6e4dd5ae46adbde3eaedb02b9100c7615b46a"
+      },
+      {
+        "path": "assets/tutorial/cmake-git-34.png",
+        "bytes": 69710,
+        "sha256": "7297600148a628371fd44f56960edd90af116aa69429bd418990c65578d5fe97"
+      },
+      {
+        "path": "assets/tutorial/socket-02.png",
+        "bytes": 136766,
+        "sha256": "6b186d526c64f7b48c79b31c39413a8ae4ff527bade79eda4d1a33d6dd889767"
+      },
+      {
+        "path": "assets/tutorial/socket-12.png",
+        "bytes": 233952,
+        "sha256": "50a2b82287d1e95533bfb25eac6769d6c79122de3c0ea1214b66171aff8ec239"
+      },
+      {
+        "path": "assets/tutorial/socket-17.png",
+        "bytes": 116165,
+        "sha256": "29bdb4bae70aae4b76d4415860f5ecdcf6ae12e22a5d00594dfffbdf8196b5f7"
+      },
+      {
+        "path": "assets/tutorial/socket-22.png",
+        "bytes": 150433,
+        "sha256": "2f33cf5f0f8e3917ee74516a3a1d99d11373fb8da684860adcd01807d68a11e9"
+      },
+      {
+        "path": "assets/tutorial/socket-27.png",
+        "bytes": 110498,
+        "sha256": "e28075e93f75b53efabe246dd2a7d1b953aee62233a5a2f9faab643160fc736a"
+      },
+      {
+        "path": "assets/tutorial/socket-33.png",
+        "bytes": 145466,
+        "sha256": "4e8e8509958c664a58455820399962482c04a357558d68c2c17ddf316e43a379"
+      }
+    ],
+    "source_observed_at": "2026-11-09T16:45:55.721678+00:00"
+  },
+  "verification": {
+    "all_prepared_source_note_figure_hashes_matched": true,
+    "source_zip_integrity_verified": true,
+    "all_30_figures_visually_inspected": true,
+    "prepared_technical_note_text_preserved": true,
+    "online_latest_source_versions_verified": false,
+    "source_version_limitation": "Uses preserved 2026-11-09 course material. Current teaching-site authentication remains unavailable; no claim of a fresh source download.",
+    "code_examples_executed": false,
+    "homework_submitted": false
+  },
+  "original_courseware_uploaded": false,
+  "repository_permissions_changed": false
+}
